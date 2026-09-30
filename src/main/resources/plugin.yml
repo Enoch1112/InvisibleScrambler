@@ -1,0 +1,6 @@
+name: InvisibleScrambler
+version: 1.0.0
+main: com.example.scrambler.ScramblerPlugin
+api-version: '1.21'
+description: Scrambles Tab list names for invisible players
+author: You
